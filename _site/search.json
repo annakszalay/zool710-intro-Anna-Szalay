@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Website!",
+    "section": "",
+    "text": "Hi! My name is Anna Szalay and this is my website.\n\n\n\nMe in Costa Rica\n\n\n\nAbout Me🐌\nI am from California and grew up in a small suburb of LA country, where the most interesting thing to do was go to the movies or drive out farther somewhere. However, I lived there my whole life, until I moved to San Luis Obispo for my undergrad at Cal Poly. I did lots of work in rangeland management, interned at a wildlife rehab, and studied abroad in Costa Rica! I discovered a love for nature and conservation….\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNow, I live in Hawaii and go to UH Manoa as a graduate student in Botany. I spend my free time hiking, reading, and hanging out with my dogs!\n\n\nResearch🌲\nI am a M.S. student in Botany at UH Manoa. I am researching the impacts of the biocontrol agent (Tectococcus ovatus) on strawberry guava (Psidium Cattleyanum). Strawberry guava is very invasive and grows in dense stands that outcompetes other plants. About a decade ago, a biocontrol agent was introduced to slow down strawberry guava’s vigor. Consequently, I am researching the efficiency of Tectococcus ovatus.\n\n\nExperience with Data🔢\nI have some experience with coding in R from an intro ecology class I took and some knowledge of intro stat as well. In my undergraduate, I manipulated data for my senior project (mostly just putting formulas into Excel) and eventually stamped the data onto a series of daily images of an ungrazed grassland for a whole year. I made a sort of “timelapse” of the grass as it grew and with each image, the data changed (precipitation, mean and max temp, GDD)! It was fun, and the most I’ve manipulated data. However, I have also worked with data just in general for some other classes in Excel. I am new to Git/Github and Quarto. I am excited to learn more data management and data analysis in this class and hope to apply to my work.\n\n\nFun Facts🎉\n\nI speak Hungarian! My entire family is from there.\n\n\n\nPhoto by Nikolett Emmert: https://www.pexels.com/photo/city-buildings-under-the-blue-sky-9893366/\n\n\nI am a twin (my brother goes to Boulder and we are opposites; I love the heat and he loves snow).\nI used to ride horses and wanted to be a pro equestrian….obviously I did not.🐎\n\n\n\nMy horse, Tango\n\n\nI own a shepherd husky rescue named Falcon and a cattle dog terrier named Kiko (Wanna check out their insta? click here!).\n\n\n\nFalcon\n\n\n\n\n\nKiko\n\n\nI volunteer with the Humane Society on the weekend. I help out with animal care, so if you’re looking for a dog or cat to adopt, let me know…!🐶"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is my about section"
+  }
+]

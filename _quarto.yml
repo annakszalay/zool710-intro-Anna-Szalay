@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "zool710-intro-Anna-Szalay"
+  navbar: 
+    left:
+      - href: index.qmd
+        text: Home 
+ 
+      
+format:
+  html:
+    theme:
+      - darkly
+      - brand
+    css: styles.css
+    toc: true
+    toc-location: left
+    toc-title: "Contents"
+    number-sections: false
+    number-depth: 3
+    
+
+editor: visual
+

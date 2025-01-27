@@ -1,0 +1,42 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"zool710-intro-Anna-Szalay\"\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "Hello welcome to my website!\n",
+        "\n",
+        "To learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "```{My name is Anna Szalay and I am a M.S. Botany student here at UH Manoa.}\n",
+        "```\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "```{}\n",
+        "```"
+      ],
+      "id": "8b8cc529"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
