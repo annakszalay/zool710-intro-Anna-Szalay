@@ -4,14 +4,14 @@ title: "My Website!"
 
 Hi! My name is Anna Szalay and this is my website.
 
-![Me in Costa Rica](images/FullSizeRender%20(1)-01.jpg){fig-align="center" width="386"}
+![](images/FullSizeRender%20(1)-01.jpg){fig-align="center" width="386"}
 
 # About Me🐌
 
 I am from California and grew up in a small suburb of LA country, where the most interesting thing to do was go to the movies or drive out farther somewhere. However, I lived there my whole life, until I moved to San Luis Obispo for my undergrad at Cal Poly. I did lots of work in rangeland management, interned at a wildlife rehab, and studied abroad in Costa Rica! I discovered a love for nature and conservation....
 
 |  |  |
-|----|----|
+|------------------------------------|------------------------------------|
 | ![Hiking in Costa Rica](images/IMG_8291.jpg){width="333"} | ![A Capuchin monkey (warning: will steal your backpack)](images/clipboard-1064695799.jpeg) |
 | ![A howler monkey](images/IMG_1518.jpg){alt="A howler monkey" width="321"} | ![Rappelling](images/IMG_7755.jpg) |
 
@@ -35,12 +35,12 @@ I have some experience with coding in R from an intro ecology class I took and s
 
 3.  I used to ride horses and wanted to be a pro equestrian....obviously I did not.🐎
 
-    ![My horse, Tango](images/FullSizeRender.JPG){fig-align="center" width="353"}
+    ![](images/FullSizeRender.JPG){fig-align="center" width="353"}
 
 4.  I own a shepherd husky rescue named Falcon and a cattle dog terrier named Kiko (Wanna check out their insta? [click here!](https://www.instagram.com/falkiko1?igsh=MWYzZnk4bWgyZjEyaQ%3D%3D&utm_source=qr)).
 
-    ![Falcon](images/IMG_5783.jpg){fig-align="center" width="188"}
+    ![](images/IMG_5783.jpg){fig-align="center" width="188"}
 
-    ![Kiko](images/IMG_5831-01.jpg){fig-align="center" width="226"}
+    ![](images/IMG_5831-01.jpg){fig-align="center" width="226"}
 
 5.  I volunteer with the Humane Society on the weekend. I help out with animal care, so if you're looking for a dog or cat to adopt, let me know...!🐶
